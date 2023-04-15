@@ -71,7 +71,7 @@
 
 
 </script>
-<div class="row">
+<div class="row" dir="ltr">
 
     <!-- /.col -->
     <div class="col-md-10">
