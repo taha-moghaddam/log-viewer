@@ -2,7 +2,7 @@
 
 namespace Encore\Admin\LogViewer;
 
-use Encore\Admin\Admin;
+use Encore\Admin\Facades\Admin;
 
 trait BootExtension
 {
