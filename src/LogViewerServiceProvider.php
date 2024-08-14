@@ -1,6 +1,6 @@
 <?php
 
-namespace Encore\Admin\LogViewer;
+namespace Bikaraan\BCore\LogViewer;
 
 use Illuminate\Support\ServiceProvider;
 

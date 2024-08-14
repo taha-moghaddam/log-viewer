@@ -1,8 +1,8 @@
 <?php
 
-namespace Encore\Admin\LogViewer;
+namespace Bikaraan\BCore\LogViewer;
 
-use Encore\Admin\Extension;
+use Bikaraan\BCore\Extension;
 
 /**
  * Class LogViewer.

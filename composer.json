@@ -2,7 +2,7 @@
     "name": "laravel-admin-ext/log-viewer",
     "description": "Log viewer for laravel",
     "type": "library",
-    "keywords": ["laravel-admin", "log", "viewer"],
+    "keywords": ["bcore", "log", "viewer"],
     "homepage": "https://github.com/laravel-admin-extensions/log-viewer",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "^1.6|dev-master"
+        "bikaraan/bcore": "dev-main"
     },
     "autoload": {
         "psr-4": {
