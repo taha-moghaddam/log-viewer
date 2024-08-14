@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Encore\\Admin\\LogViewer\\": "src/"
+            "Bikaraan\\BCore\\LogViewer\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Encore\\Admin\\LogViewer\\LogViewerServiceProvider"
+                "Bikaraan\\BCore\\LogViewer\\LogViewerServiceProvider"
             ]
         }
     }
